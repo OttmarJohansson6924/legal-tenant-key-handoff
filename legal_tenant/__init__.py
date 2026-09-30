@@ -1,0 +1,1 @@
+"""Legal tenant onboarding example."""
